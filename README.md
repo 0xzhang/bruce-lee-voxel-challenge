@@ -6,7 +6,7 @@
 | :-----------------: | :------------: |
 |   ![](bruce.png)    | ![](demo.jpg) |
 
-I used the [@maajor's method](https://github.com/maajor/maajor-voxel-challenge). [@maajor](https://github.com/maajor) is author of the famous voxel artwork "The Girl with a Voxel Earring".
+I used the [@maajor's method](https://github.com/maajor/maajor-voxel-challenge) to convert models into codes and modified a little. [@maajor](https://github.com/maajor) is author of the famous voxel artwork "The Girl with a Voxel Earring".
 
 ## Pixel Arts
 
